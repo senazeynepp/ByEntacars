@@ -1,0 +1,7 @@
+{
+  "name": "Remix: By Entacars - Elektrikli Araç Kiralama",
+  "description": "Türkiye\u0027nin en modern elektrikli araç kiralama platformu. By Entacars ile geniş araç filosu, şarj istasyonu haritası ve hızlı teklif alma imkanı.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
